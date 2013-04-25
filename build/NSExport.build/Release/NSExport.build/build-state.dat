@@ -1,0 +1,298 @@
+TNSExport
+v7
+r0
+t300742544.556838
+cCheck dependencies
+cProcessPCH /var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-emvatrufljtkqmbdcrskxdsccdgl/NSExport_Prefix.pch.gch NSExport_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-freivfyqqroddigidtlcuuepgzxx/NSExport_Prefix.pch.gch NSExport_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport.o /Users/pete/Documents/~Programming/NSExport/NSExport.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NSExport.build/Release/NSExport.build/Objects-normal/i386/MMatrix.o /Users/pete/Documents/~Programming/NSExport/MMatrix.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NSExport.build/Release/NSExport.build/Objects-normal/i386/EGIFile.o /Users/pete/Documents/~Programming/NSExport/EGIFile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport normal i386
+cCompileC build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport.o /Users/pete/Documents/~Programming/NSExport/NSExport.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/MMatrix.o /Users/pete/Documents/~Programming/NSExport/MMatrix.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/EGIFile.o /Users/pete/Documents/~Programming/NSExport/EGIFile.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport normal ppc
+cCreateUniversalBinary /Users/pete/Documents/~Programming/NSExport/build/Release/NSExport normal "i386 ppc"
+cGenerateDSYMFile /Users/pete/Documents/~Programming/NSExport/build/Release/NSExport.dSYM /Users/pete/Documents/~Programming/NSExport/build/Release/NSExport
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B7D589B00000000000000EE
+t1266505883
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/Users/pete/Documents/~Programming/NSExport/EGIFile.h
+c0000000048DC19FF000000000000023A
+t1222384127
+s570
+i<Cocoa/Cocoa.h>
+i"MMatrix.h"
+
+N/Users/pete/Documents/~Programming/NSExport/EGIFile.m
+c0000000048E000CE000000000000130C
+t1222639822
+s4876
+i"EGIFile.h"
+
+N/Users/pete/Documents/~Programming/NSExport/MMatrix.h
+c0000000048DC19F70000000000000251
+t1222384119
+s593
+i<Cocoa/Cocoa.h>
+
+N/Users/pete/Documents/~Programming/NSExport/MMatrix.m
+c0000000048E0161800000000000005B5
+t1222645272
+s1461
+i"MMatrix.h"
+
+N/Users/pete/Documents/~Programming/NSExport/NSExport.m
+c0000000048E0144F0000000000000267
+t1222644815
+s615
+i<Foundation/Foundation.h>
+i"MMatrix.h"
+i"EGIFile.h"
+
+N/Users/pete/Documents/~Programming/NSExport/NSExport_Prefix.pch
+c0000000048DBF720000000000000009E
+t1222375200
+s158
+i<Foundation/Foundation.h>
+
+N/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/EGIFile.o
+t1279049736
+s18072
+
+N/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/MMatrix.o
+t1279049736
+s12888
+
+N/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport
+t1279049736
+s21000
+
+N/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport.LinkFileList
+c000000004C3CC0030000000000000163
+t1279049731
+s355
+
+N/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport.o
+t1279049735
+s7184
+
+N/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/EGIFile.o
+t1279049736
+s17260
+
+N/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/MMatrix.o
+t1279049736
+s12780
+
+N/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport
+t1279049736
+s20436
+
+N/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport.LinkFileList
+c000000004C3CC0030000000000000160
+t1279049731
+s352
+
+N/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport.o
+t1279049736
+s7464
+
+N/Users/pete/Documents/~Programming/NSExport/build/Release/NSExport
+t1279049736
+s49108
+
+N/Users/pete/Documents/~Programming/NSExport/build/Release/NSExport.dSYM
+t1279049736
+s102
+
+N/var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-emvatrufljtkqmbdcrskxdsccdgl/NSExport_Prefix.pch.gch
+t1279049735
+s40458224
+
+N/var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-freivfyqqroddigidtlcuuepgzxx/NSExport_Prefix.pch.gch
+t1279049735
+s37795632
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300742544#300742544#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/NSExport.build/Release/NSExport.build/Objects-normal/i386/EGIFile.o /Users/pete/Documents/~Programming/NSExport/EGIFile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300742535.538289
+e300742536.036098
+r1
+xCompileC
+xbuild/NSExport.build/Release/NSExport.build/Objects-normal/i386/EGIFile.o
+x/Users/pete/Documents/~Programming/NSExport/EGIFile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pete/Documents/~Programming/NSExport/EGIFile.m: In function '-[EGIFile readFile]':
+o/Users/pete/Documents/~Programming/NSExport/EGIFile.m:72: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363)
+o/Users/pete/Documents/~Programming/NSExport/EGIFile.m:93: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363)
+lSLF07#2@61"Compile /Users/pete/Documents/~Programming/NSExport/EGIFile.m300742535#300742536#0(538"/Users/pete/Documents/~Programming/NSExport/EGIFile.m: In function '-[EGIFile readFile]':/Users/pete/Documents/~Programming/NSExport/EGIFile.m:72: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363)/Users/pete/Documents/~Programming/NSExport/EGIFile.m:93: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363)2(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363)300742535#90#224#0(6@53"/Users/pete/Documents/~Programming/NSExport/EGIFile.m244332622#72#0#72#0#33"'*' is deprecated (declared at *)0(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363)300742535#314#224#0(6@53"/Users/pete/Documents/~Programming/NSExport/EGIFile.m244332622#93#0#93#0#33"'*' is deprecated (declared at *)0(0#0#53"/Users/pete/Documents/~Programming/NSExport/EGIFile.m4300911832#1576"    cd "/Users/pete/Documents/~Programming/NSExport"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-generated-files.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-own-target-headers.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-all-target-headers.hmap -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-project-headers.hmap -F/Users/pete/Documents/~Programming/NSExport/build/Release -I/Users/pete/Documents/~Programming/NSExport/build/Release/include -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources/i386 -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources -include /var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-emvatrufljtkqmbdcrskxdsccdgl/NSExport_Prefix.pch -c /Users/pete/Documents/~Programming/NSExport/EGIFile.m -o /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/EGIFile.o0#
+
+CCompileC build/NSExport.build/Release/NSExport.build/Objects-normal/i386/MMatrix.o /Users/pete/Documents/~Programming/NSExport/MMatrix.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300742535.537077
+e300742536.035885
+r1
+xCompileC
+xbuild/NSExport.build/Release/NSExport.build/Objects-normal/i386/MMatrix.o
+x/Users/pete/Documents/~Programming/NSExport/MMatrix.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/pete/Documents/~Programming/NSExport/MMatrix.m300742535#300742536#0(0"0(0#0#53"/Users/pete/Documents/~Programming/NSExport/MMatrix.m4300911832#1576"    cd "/Users/pete/Documents/~Programming/NSExport"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-generated-files.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-own-target-headers.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-all-target-headers.hmap -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-project-headers.hmap -F/Users/pete/Documents/~Programming/NSExport/build/Release -I/Users/pete/Documents/~Programming/NSExport/build/Release/include -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources/i386 -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources -include /var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-emvatrufljtkqmbdcrskxdsccdgl/NSExport_Prefix.pch -c /Users/pete/Documents/~Programming/NSExport/MMatrix.m -o /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/MMatrix.o0#
+
+CCompileC build/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport.o /Users/pete/Documents/~Programming/NSExport/NSExport.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300742535.535616
+e300742536.034715
+r1
+xCompileC
+xbuild/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport.o
+x/Users/pete/Documents/~Programming/NSExport/NSExport.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pete/Documents/~Programming/NSExport/NSExport.m: In function 'main':
+o/Users/pete/Documents/~Programming/NSExport/NSExport.m:21: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:364)
+o/Users/pete/Documents/~Programming/NSExport/NSExport.m:22: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:364)
+lSLF07#2@62"Compile /Users/pete/Documents/~Programming/NSExport/NSExport.m300742535#300742536#0(512"/Users/pete/Documents/~Programming/NSExport/NSExport.m: In function 'main':/Users/pete/Documents/~Programming/NSExport/NSExport.m:21: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:364)/Users/pete/Documents/~Programming/NSExport/NSExport.m:22: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:364)2(22@149"'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:364)300742535#76#218#0(6@54"/Users/pete/Documents/~Programming/NSExport/NSExport.m244337615#21#0#21#0#33"'*' is deprecated (declared at *)0(22@149"'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:364)300742535#294#218#0(6@54"/Users/pete/Documents/~Programming/NSExport/NSExport.m244337615#22#0#22#0#33"'*' is deprecated (declared at *)0(0#0#54"/Users/pete/Documents/~Programming/NSExport/NSExport.m4300911832#1578"    cd "/Users/pete/Documents/~Programming/NSExport"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-generated-files.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-own-target-headers.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-all-target-headers.hmap -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-project-headers.hmap -F/Users/pete/Documents/~Programming/NSExport/build/Release -I/Users/pete/Documents/~Programming/NSExport/build/Release/include -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources/i386 -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources -include /var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-emvatrufljtkqmbdcrskxdsccdgl/NSExport_Prefix.pch -c /Users/pete/Documents/~Programming/NSExport/NSExport.m -o /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport.o0#
+
+CCompileC build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/EGIFile.o /Users/pete/Documents/~Programming/NSExport/EGIFile.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s300742536.036757
+e300742536.441875
+r1
+xCompileC
+xbuild/NSExport.build/Release/NSExport.build/Objects-normal/ppc/EGIFile.o
+x/Users/pete/Documents/~Programming/NSExport/EGIFile.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pete/Documents/~Programming/NSExport/EGIFile.m: In function '-[EGIFile readFile]':
+o/Users/pete/Documents/~Programming/NSExport/EGIFile.m:72: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363)
+o/Users/pete/Documents/~Programming/NSExport/EGIFile.m:93: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363)
+lSLF07#2@61"Compile /Users/pete/Documents/~Programming/NSExport/EGIFile.m300742536#300742536#0(538"/Users/pete/Documents/~Programming/NSExport/EGIFile.m: In function '-[EGIFile readFile]':/Users/pete/Documents/~Programming/NSExport/EGIFile.m:72: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363)/Users/pete/Documents/~Programming/NSExport/EGIFile.m:93: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363)2(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363)300742536#90#224#0(6@53"/Users/pete/Documents/~Programming/NSExport/EGIFile.m244332622#72#0#72#0#33"'*' is deprecated (declared at *)0(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363)300742536#314#224#0(6@53"/Users/pete/Documents/~Programming/NSExport/EGIFile.m244332622#93#0#93#0#33"'*' is deprecated (declared at *)0(0#0#53"/Users/pete/Documents/~Programming/NSExport/EGIFile.m4300911832#1583"    cd "/Users/pete/Documents/~Programming/NSExport"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc-only -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-generated-files.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-own-target-headers.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-all-target-headers.hmap -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-project-headers.hmap -F/Users/pete/Documents/~Programming/NSExport/build/Release -I/Users/pete/Documents/~Programming/NSExport/build/Release/include -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources/ppc -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources -include /var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-freivfyqqroddigidtlcuuepgzxx/NSExport_Prefix.pch -c /Users/pete/Documents/~Programming/NSExport/EGIFile.m -o /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/EGIFile.o0#
+
+CCompileC build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/MMatrix.o /Users/pete/Documents/~Programming/NSExport/MMatrix.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s300742536.034832
+e300742536.416566
+r1
+xCompileC
+xbuild/NSExport.build/Release/NSExport.build/Objects-normal/ppc/MMatrix.o
+x/Users/pete/Documents/~Programming/NSExport/MMatrix.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/pete/Documents/~Programming/NSExport/MMatrix.m300742536#300742536#0(0"0(0#0#53"/Users/pete/Documents/~Programming/NSExport/MMatrix.m4300911832#1583"    cd "/Users/pete/Documents/~Programming/NSExport"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc-only -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-generated-files.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-own-target-headers.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-all-target-headers.hmap -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-project-headers.hmap -F/Users/pete/Documents/~Programming/NSExport/build/Release -I/Users/pete/Documents/~Programming/NSExport/build/Release/include -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources/ppc -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources -include /var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-freivfyqqroddigidtlcuuepgzxx/NSExport_Prefix.pch -c /Users/pete/Documents/~Programming/NSExport/MMatrix.m -o /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/MMatrix.o0#
+
+CCompileC build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport.o /Users/pete/Documents/~Programming/NSExport/NSExport.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s300742535.539753
+e300742536.141427
+r1
+xCompileC
+xbuild/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport.o
+x/Users/pete/Documents/~Programming/NSExport/NSExport.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pete/Documents/~Programming/NSExport/NSExport.m: In function 'main':
+o/Users/pete/Documents/~Programming/NSExport/NSExport.m:21: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:364)
+o/Users/pete/Documents/~Programming/NSExport/NSExport.m:22: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:364)
+lSLF07#2@62"Compile /Users/pete/Documents/~Programming/NSExport/NSExport.m300742535#300742536#0(512"/Users/pete/Documents/~Programming/NSExport/NSExport.m: In function 'main':/Users/pete/Documents/~Programming/NSExport/NSExport.m:21: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:364)/Users/pete/Documents/~Programming/NSExport/NSExport.m:22: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:364)2(22@149"'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:364)300742535#76#218#0(6@54"/Users/pete/Documents/~Programming/NSExport/NSExport.m244337615#21#0#21#0#33"'*' is deprecated (declared at *)0(22@149"'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:364)300742535#294#218#0(6@54"/Users/pete/Documents/~Programming/NSExport/NSExport.m244337615#22#0#22#0#33"'*' is deprecated (declared at *)0(0#0#54"/Users/pete/Documents/~Programming/NSExport/NSExport.m4300911832#1585"    cd "/Users/pete/Documents/~Programming/NSExport"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc-only -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-generated-files.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-own-target-headers.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-all-target-headers.hmap -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-project-headers.hmap -F/Users/pete/Documents/~Programming/NSExport/build/Release -I/Users/pete/Documents/~Programming/NSExport/build/Release/include -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources/ppc -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources -include /var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-freivfyqqroddigidtlcuuepgzxx/NSExport_Prefix.pch -c /Users/pete/Documents/~Programming/NSExport/NSExport.m -o /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport.o0#
+
+CCreateUniversalBinary /Users/pete/Documents/~Programming/NSExport/build/Release/NSExport normal "i386 ppc"
+s300742536.586051
+e300742536.617778
+r1
+xCreateUniversalBinary
+x/Users/pete/Documents/~Programming/NSExport/build/Release/NSExport
+xnormal
+xi386 ppc
+lSLF07#2@62"CreateUniversalBinary build/Release/NSExport normal "i386 ppc"300742536#300742536#0(0"0(0#0#52"/Users/pete/Documents/~Programming/NSExport/i386 ppc4300911832#387"    cd "/Users/pete/Documents/~Programming/NSExport"    /usr/bin/lipo -create /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport -output /Users/pete/Documents/~Programming/NSExport/build/Release/NSExport0#
+
+CGenerateDSYMFile /Users/pete/Documents/~Programming/NSExport/build/Release/NSExport.dSYM /Users/pete/Documents/~Programming/NSExport/build/Release/NSExport
+s300742536.617860
+e300742536.698761
+r1
+xGenerateDSYMFile
+x/Users/pete/Documents/~Programming/NSExport/build/Release/NSExport.dSYM
+x/Users/pete/Documents/~Programming/NSExport/build/Release/NSExport
+lSLF07#2@67"GenerateDSYMFile build/Release/NSExport.dSYM build/Release/NSExport300742536#300742536#0(0"0(0#0#66"/Users/pete/Documents/~Programming/NSExport/build/Release/NSExport4300911832#227"    cd "/Users/pete/Documents/~Programming/NSExport"    /Developer/usr/bin/dsymutil /Users/pete/Documents/~Programming/NSExport/build/Release/NSExport -o /Users/pete/Documents/~Programming/NSExport/build/Release/NSExport.dSYM0#
+
+CLd /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport normal i386
+s300742536.036158
+e300742536.388425
+r1
+xLd
+x/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport
+xnormal
+xi386
+old: warning: directory '/Users/pete/Documents/~Programming/NSExport/build/Release' following -L not found
+old: warning: directory '/Users/pete/Documents/~Programming/NSExport/build/Release' following -F not found
+lSLF07#2@121"Link /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport300742536#300742536#0(212"ld: warning: directory '/Users/pete/Documents/~Programming/NSExport/build/Release' following -L not foundld: warning: directory '/Users/pete/Documents/~Programming/NSExport/build/Release' following -F not found2(22@92"Directory '/Users/pete/Documents/~Programming/NSExport/build/Release' following -L not found300742536#0#106#0(6@0"300742536#0#0#0#0#0"0(22@92"Directory '/Users/pete/Documents/~Programming/NSExport/build/Release' following -F not found300742536#106#106#0(6@0"300742536#0#0#0#0#0"0(0#0#0"4300911832#605"    cd "/Users/pete/Documents/~Programming/NSExport"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/pete/Documents/~Programming/NSExport/build/Release -F/Users/pete/Documents/~Programming/NSExport/build/Release -filelist /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -o /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/i386/NSExport0#
+
+CLd /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport normal ppc
+s300742536.441970
+e300742536.585793
+r1
+xLd
+x/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport
+xnormal
+xppc
+old: warning: directory '/Users/pete/Documents/~Programming/NSExport/build/Release' following -L not found
+old: warning: directory '/Users/pete/Documents/~Programming/NSExport/build/Release' following -F not found
+lSLF07#2@120"Link /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport300742536#300742536#0(212"ld: warning: directory '/Users/pete/Documents/~Programming/NSExport/build/Release' following -L not foundld: warning: directory '/Users/pete/Documents/~Programming/NSExport/build/Release' following -F not found2(22@92"Directory '/Users/pete/Documents/~Programming/NSExport/build/Release' following -L not found300742536#0#106#0(6@0"300742536#0#0#0#0#0"0(22@92"Directory '/Users/pete/Documents/~Programming/NSExport/build/Release' following -F not found300742536#106#106#0(6@0"300742536#0#0#0#0#0"0(0#0#0"4300911832#602"    cd "/Users/pete/Documents/~Programming/NSExport"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/pete/Documents/~Programming/NSExport/build/Release -F/Users/pete/Documents/~Programming/NSExport/build/Release -filelist /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -o /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/Objects-normal/ppc/NSExport0#
+
+CProcessPCH /var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-emvatrufljtkqmbdcrskxdsccdgl/NSExport_Prefix.pch.gch NSExport_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300742531.809892
+e300742535.388044
+r1
+xProcessPCH
+x/var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-emvatrufljtkqmbdcrskxdsccdgl/NSExport_Prefix.pch.gch
+xNSExport_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile NSExport_Prefix.pch300742531#300742535#0(0"0(0#0#63"/Users/pete/Documents/~Programming/NSExport/NSExport_Prefix.pch4300911832#1470"    cd "/Users/pete/Documents/~Programming/NSExport"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-generated-files.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-own-target-headers.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-all-target-headers.hmap -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-project-headers.hmap -F/Users/pete/Documents/~Programming/NSExport/build/Release -I/Users/pete/Documents/~Programming/NSExport/build/Release/include -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources/i386 -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources -c /Users/pete/Documents/~Programming/NSExport/NSExport_Prefix.pch -o /var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-emvatrufljtkqmbdcrskxdsccdgl/NSExport_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-freivfyqqroddigidtlcuuepgzxx/NSExport_Prefix.pch.gch NSExport_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s300742531.810687
+e300742535.535469
+r1
+xProcessPCH
+x/var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-freivfyqqroddigidtlcuuepgzxx/NSExport_Prefix.pch.gch
+xNSExport_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile NSExport_Prefix.pch300742531#300742535#0(0"0(0#0#63"/Users/pete/Documents/~Programming/NSExport/NSExport_Prefix.pch4300911832#1478"    cd "/Users/pete/Documents/~Programming/NSExport"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc-only -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-generated-files.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-own-target-headers.hmap -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-all-target-headers.hmap -iquote /Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/NSExport-project-headers.hmap -F/Users/pete/Documents/~Programming/NSExport/build/Release -I/Users/pete/Documents/~Programming/NSExport/build/Release/include -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources/ppc -I/Users/pete/Documents/~Programming/NSExport/build/NSExport.build/Release/NSExport.build/DerivedSources -c /Users/pete/Documents/~Programming/NSExport/NSExport_Prefix.pch -o /var/folders/wi/wiOciBgXH-WtqCrzbs0iPE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NSExport_Prefix-freivfyqqroddigidtlcuuepgzxx/NSExport_Prefix.pch.gch0#
+

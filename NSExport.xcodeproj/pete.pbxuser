@@ -1,0 +1,112 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = C11B46E10E8C2EA000FC1775 /* NSExport */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* NSExport */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* NSExport */,
+		);
+		codeSenseManager = C11B46EA0E8C2EA600FC1775 /* Code sense */;
+		executables = (
+			C11B46E10E8C2EA000FC1775 /* NSExport */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 300742523;
+			PBXWorkspaceStateSaveDate = 300742523;
+		};
+		sourceControlManager = C11B46E90E8C2EA600FC1775 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* NSExport.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {641, 390}}";
+			sepNavSelRange = "{405, 0}";
+			sepNavVisRange = "{325, 290}";
+			sepNavWindowFrame = "{{63, 22}, {603, 856}}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* NSExport */ = {
+		activeExec = 0;
+		executables = (
+			C11B46E10E8C2EA000FC1775 /* NSExport */,
+		);
+	};
+	C11B46E10E8C2EA000FC1775 /* NSExport */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = NSExport;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C11B46E90E8C2EA600FC1775 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C11B46EA0E8C2EA600FC1775 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C11B46EB0E8C2EAB00FC1775 /* MMatrix.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {703, 750}}";
+			sepNavSelRange = "{115, 0}";
+			sepNavVisRange = "{0, 593}";
+			sepNavWindowFrame = "{{15, -5}, {762, 878}}";
+		};
+	};
+	C11B46EC0E8C2EAB00FC1775 /* MMatrix.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {703, 1078}}";
+			sepNavSelRange = "{1193, 0}";
+			sepNavVisRange = "{0, 1009}";
+			sepNavWindowFrame = "{{13, 0}, {762, 878}}";
+		};
+	};
+	C11B46F30E8C2F0000FC1775 /* EGIFile.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {703, 750}}";
+			sepNavSelRange = "{115, 0}";
+			sepNavVisRange = "{0, 570}";
+			sepNavWindowFrame = "{{39, 0}, {762, 878}}";
+		};
+	};
+	C11B46F40E8C2F0000FC1775 /* EGIFile.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {703, 2058}}";
+			sepNavSelRange = "{3227, 0}";
+			sepNavVisRange = "{3225, 1651}";
+			sepNavWindowFrame = "{{611, 0}, {762, 878}}";
+		};
+	};
+}
